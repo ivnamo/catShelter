@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5fb1b3d0-8f8c-4a8a-9b9b-3a2f0bf1c001",
+    "name": "Luna",
+    "breed": "European Shorthair",
+    "sex": "female",
+    "status": "available",
+    "colorCategory": "primary",
+    "birthdate": "2022-06-15T00:00:00Z",
+    "intakeDate": "2025-08-20T10:00:00Z",
+    "weightKg": 3.6,
+    "descriptionText": "Gata muy cariñosa y tranquila, ideal para pisos.",
+    "photoURLs": [
+      "https://example.com/photos/luna1.jpg",
+      "https://example.com/photos/luna2.jpg"
+    ],
+    "tags": ["docile", "indoor", "vaccinated"],
+    "shelter": {
+      "id": "c0a1a2b3-c4d5-46e7-8f90-112233445566",
+      "name": "Refugio Gatuno Centro",
+      "address": "C/ Mayor 123",
+      "city": "Madrid",
+      "country": "España",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "website": "https://refugio-centro.example.org",
+      "youtube": "https://www.youtube.com/@refugio-centro",
+      "instagram": "https://www.instagram.com/refugio.centro/"
+    }
+  },
+  {
+    "name": "Simba",
+    "breed": "Maine Coon",
+    "sex": "male",
+    "status": "reserved",
+    "colorCategory": "warning",
+    "birthdate": "2021-11-02T00:00:00Z",
+    "intakeDate": "2025-09-01T09:30:00Z",
+    "weightKg": 6.2,
+    "descriptionText": "Juguetón y sociable, se lleva bien con niños.",
+    "photoURLs": [
+      "https://example.com/photos/simba1.jpg"
+    ],
+    "tags": ["playful", "kids-friendly"],
+    "shelter": {
+      "id": "c0a1a2b3-c4d5-46e7-8f90-112233445566",
+      "name": "Refugio Gatuno Centro",
+      "address": "C/ Mayor 123",
+      "city": "Madrid",
+      "country": "España",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "website": "https://refugio-centro.example.org",
+      "youtube": "https://www.youtube.com/@refugio-centro",
+      "instagram": "https://www.instagram.com/refugio.centro/"
+    }
+  },
+  {
+    "name": "Neko",
+    "breed": "Siamese",
+    "sex": "male",
+    "status": "adopted",
+    "colorCategory": "success",
+    "birthdate": null,
+    "intakeDate": "2025-07-10T12:00:00Z",
+    "weightKg": 4.1,
+    "descriptionText": "Curioso y activo, ideal para gente con tiempo.",
+    "photoURLs": [
+      "https://example.com/photos/neko1.jpg",
+      "https://example.com/photos/neko2.jpg"
+    ],
+    "tags": ["active", "curious"],
+    "shelter": {
+      "id": "7e0f9b12-3456-47a8-9abc-def012345678",
+      "name": "Protectora Felina Norte",
+      "address": "Av. Libertad 45",
+      "city": "Burgos",
+      "country": "España",
+      "latitude": 42.3439,
+      "longitude": -3.6969,
+      "website": "https://protectora-norte.example.org",
+      "youtube": null,
+      "instagram": "https://www.instagram.com/protectora.norte/"
+    }
+  }
+]
